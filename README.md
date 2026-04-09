@@ -11,6 +11,12 @@ This project predicts energy consumption using a Multi-Layer Perceptron (MLP) mo
 - Streamlit UI
 - Line graph visualization
 - Smart recommendations
+  
+  ## 🧠 Technologies Used
+- Python
+- TensorFlow / Keras
+- Scikit-learn
+- Streamlit
 
 ## ▶️ Run Project
 
